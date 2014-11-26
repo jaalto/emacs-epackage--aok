@@ -1,0 +1,5 @@
+(autoload 'all-occur                            "aok" "" t)
+(autoload 'type-occur                           "aok" "" t)
+(autoload 'mode-occur                           "aok" "" t)
+(autoload 'occur-select                         "aok" "" t)
+(provide 'aok-epackage-autoloads)

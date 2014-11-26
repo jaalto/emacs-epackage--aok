@@ -1,0 +1,26 @@
+Package: aok
+Section: extensions
+License: GPL-2+
+Depends: emacs (>= 23)
+Status: unmaintained stable
+Archive:
+Compat:
+Maintainer: Jari Aalto <jari.aalto@cante.net>
+Bugs:
+Upstream: lynnux <lynnux.cn@gmail.com>
+Upstream-Bugs: lynnux <lynnux.cn@gmail.com>
+Vcs-Type:
+Vcs-Url:
+Vcs-Browser:
+Homepage:
+Wiki: http://www.emacswiki.org/emacs/aok.el
+Commentary: aok.el
+Info:
+X-Development:
+ 2014-11-26 Upstream email unconfirmed.
+Description: various useful ways to do `multi-occur'
+ search all buffers, all buffers whose filenames have a certain
+ type, or all buffers in a certain mode, with `all-occur',
+ `type-occur', or `mode-occur', respectively.
+ .
+ Note: 2014-11-26 the code hasn't been updated since 2013.
